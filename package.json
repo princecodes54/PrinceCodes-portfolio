@@ -1,0 +1,24 @@
+{
+  "name": "prince-portfolio",
+  "version": "1.0.0",
+  "description": "Prince - Young Web Developer Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "open index.html",
+    "build": "echo 'Static site ready'"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "web",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Prince",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/princecodes54/prince-portfolio.git"
+  }
+}
